@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=blender,bootstrap,cpp,css,figma,firebase,flutter,html,java,js,laravel,mysql,nextjs,nodejs,php,postgres,python,react,redux,sass,tailwind,ts,unity,vue" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=blender,bootstrap,cpp,css,figma,firebase,flutter,html,java,js,laravel,mysql,nextjs,nodejs,php,postgres,python,react,redux,sass,tailwind,ts,unity,vue,materialui,prisma" alt="Languages and Tools" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wildanaw18&show_icons=true&locale=en&layout=compact" alt="wildanaw18" /></p>
